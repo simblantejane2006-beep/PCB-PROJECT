@@ -1,8 +1,9 @@
 # PCB PROJECT
 this project serves as the blueprint for a customized Printed Circuit Board (PCB), it shows the creativity of making my own pcb in what is on my mind.
 +Features
-|COMPONENTS|MODULE|HOW IT USE
-|----------|------|
+</br>
+|COMPONENTS|MODULE|HOW IT USE|
+|----------|------|----------|
 |Microcontroller |ESP32-DEVKIT-V1|
 |Pin(1X15)|HDR-M_2.54_1x15P|
 |pin(2x2)|TE_826656-2|
