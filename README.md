@@ -6,7 +6,7 @@
 - this project serves as the blueprint for a customized Printed Circuit Board (PCB), it shows the creativity of making my own pcb in what is on my mind.</br>
 </br>
 
-**Features and Components used**
+**Features and Components Used**
 
 |COMPONENTS|MODULE|DISCRIPTION|
 |----------|------|----------|
