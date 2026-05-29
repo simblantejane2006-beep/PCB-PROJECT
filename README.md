@@ -18,6 +18,7 @@
 |Ic Reg Linear|AMS1117-5.0|Steps down input voltage to a stable 5V or 3.3V for the chips.|
 |DPDT Switch|MINI-SPDT-SW| They are heavily used in robotics and automotive projects to easily reverse the polarity of DC motors, changing the direction of rotation.|
 |Barrel Power Jack|Connector_Barrel_Jack_MountingPin|Input port for an external power adapter.|
+
 **Software Used**
 + </br>
 **EasyEDA**
