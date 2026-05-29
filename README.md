@@ -1,7 +1,7 @@
 # PCB PROJECT
 ## Mary Jane T. Simblante</br>
 ### Electronics engineering</br>
-##EN1A
+## EN1A
 </br>
 + this project serves as the blueprint for a customized Printed Circuit Board (PCB), it shows the creativity of making my own pcb in what is on my mind.</br>
 </br>Features and Components used
