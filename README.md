@@ -1,7 +1,7 @@
 # PCB PROJECT
 ## Mary Jane T. Simblante</br>
 ### Electronics engineering</br>
-## EN1A
+### EN1A
 </br>
 - this project serves as the blueprint for a customized Printed Circuit Board (PCB), it shows the creativity of making my own pcb in what is on my mind.</br>
 </br>
@@ -18,7 +18,8 @@
 |Ic Reg Linear|AMS1117-5.0|Steps down input voltage to a stable 5V or 3.3V for the chips.|
 |DPDT Switch|MINI-SPDT-SW| They are heavily used in robotics and automotive projects to easily reverse the polarity of DC motors, changing the direction of rotation.|
 |Barrel Power Jack|Connector_Barrel_Jack_MountingPin|Input port for an external power adapter.|
-+ Software Used</br>
+**Software Used**
++ </br>
 **EasyEDA**
   </br>
 -A free website that can students can learn and explore about circuits and pcb, especially for engineerin student who needed this type of simulation pcb. 
