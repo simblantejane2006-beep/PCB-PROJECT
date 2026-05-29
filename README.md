@@ -5,7 +5,6 @@
 </br>
 + this project serves as the blueprint for a customized Printed Circuit Board (PCB), it shows the creativity of making my own pcb in what is on my mind.</br>
 </br>Features and Components used
-</br>
 |COMPONENTS|MODULE|HOW IT USE|
 |----------|------|----------|
 |Microcontroller |ESP32-DEVKIT-V1|The "brain" that executes the code and controls the logic.|
