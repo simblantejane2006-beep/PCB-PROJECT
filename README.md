@@ -8,7 +8,7 @@ this project serves as the blueprint for a customized Printed Circuit Board (PCB
 |Pin(1X15)|HDR-M_2.54_1x15P|Provides physical pins to connect sensors, modules, or jumper wires.|
 |pin(2x2)|TE_826656-2|
 |LED|KT-0805W|A highly efficient electronic component that produces light.|
-|Capacitor|100nf|Filters electrical noise and stabilizes the power supply.|
+|Capacitor|100nf10nf 100UF |Filters electrical noise and stabilizes the power supply.|
 |---------|10nf|
 |---------|100uf|
 |Ic Reg Linear|AMS1117-5.0|Steps down input voltage to a stable 5V or 3.3V for the chips.|
