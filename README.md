@@ -8,7 +8,7 @@
 
 **Features and Components used**
 
-|COMPONENTS|MODULE|HOW IT USE|
+|COMPONENTS|MODULE|DISCRIPTION|
 |----------|------|----------|
 |Microcontroller |ESP32-DEVKIT-V1|The "brain" that executes the code and controls the logic.|
 |Pin(1X15)|HDR-M_2.54_1x15P|Provides physical pins to connect sensors, modules, or jumper wires.|
