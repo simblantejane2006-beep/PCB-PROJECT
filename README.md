@@ -4,7 +4,9 @@
 ## EN1A
 </br>
 + this project serves as the blueprint for a customized Printed Circuit Board (PCB), it shows the creativity of making my own pcb in what is on my mind.</br>
-</br>Features and Components used
+</br>
+
+**Features and Components used**
 
 |COMPONENTS|MODULE|HOW IT USE|
 |----------|------|----------|
@@ -18,4 +20,5 @@
 |Barrel Power Jack|Connector_Barrel_Jack_MountingPin|Input port for an external power adapter.|
 + Software Used</br>
 **EasyEDA**
+  </br>
 -A free website that can students can learn and explore about circuits and pcb, especially for engineerin student who needed this type of simulation pcb. 
