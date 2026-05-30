@@ -20,7 +20,7 @@
 |Barrel Power Jack|Connector_Barrel_Jack_MountingPin|Input port for an external power adapter.|
 
 **Software Used**
-+ </br>
+ </br>
 **EasyEDA**
   </br>
 -A free website that can students can learn and explore about circuits and pcb, especially for engineerin student who needed this type of simulation pcb. 
