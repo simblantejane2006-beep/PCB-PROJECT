@@ -1,4 +1,4 @@
-# PCB PROJECT
+# ECE_ESP32_PCB_SIMBLANTE_EN1A
 ## Mary Jane T. Simblante</br>
 ### Electronics engineering</br>
 ### EN1A
